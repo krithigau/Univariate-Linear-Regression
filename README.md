@@ -43,10 +43,10 @@ plt.show()
 ```
 ## Output
 
-![Alt text](<Uni code 1.png>)
 
+![Alt text](<Screenshot 2023-12-25 102202.png>)
 
-![Alt text](<Uni output.png>)
+![Alt text](<Screenshot 2023-12-25 102219.png>)
 
 </br>
 </br>
